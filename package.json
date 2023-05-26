@@ -1,0 +1,26 @@
+{
+  "name": "react-parcel-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "parcel": "^2.8.3",
+    "typescript": "^5.0.4"
+  },
+  "alias": {
+    "process": false
+  }
+}
