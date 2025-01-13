@@ -18,7 +18,7 @@
     "@types/react-dom": "^18.3.1",
     "@types/react": "^18.3.12",
     "parcel": "^2.13.3",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.3"
   },
   "alias": {
     "process": false
