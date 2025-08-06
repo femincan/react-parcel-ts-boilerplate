@@ -12,10 +12,10 @@
   "license": "MIT",
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
-    "@types/react-dom": "^19.1.6",
+    "@types/react-dom": "^19.1.7",
     "@types/react": "^18.3.12",
     "parcel": "^2.15.4",
     "typescript": "^5.8.3"
